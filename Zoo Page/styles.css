@@ -1,0 +1,123 @@
+#background {
+	background-image: url("images/lion-flame.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	opacity: 0.5;
+}
+body{
+	width: 80%
+	margin-top: 0;
+	padding-top: 0;
+	margin-left: 10%;
+	margin-right: 10%;
+	align-content: center;
+	background-color: #333333;
+	color: #ffffff;
+}
+h1{
+	position: fixed;
+	top: 0px;
+	margin-top: 0px;
+	padding: 15px;
+	width: 100%;
+	background-color: #000000;
+	z-index: 1;
+}
+
+
+
+header {
+	position: top;
+	background-color: #000000;
+	color: #ffffff;
+	margin-top: 0;
+	padding-top: 20px;
+	width: 80%
+	
+	
+}
+nav {
+	display: inline-block;
+	text-align: center;
+
+	
+}
+
+ul {
+	position: fixed;
+	list-style-type: none;
+    margin-top: 35px;
+    padding-left: 15px;
+    background-color: #000000;
+    width: 100%;
+    z-index: 1;
+    
+}
+
+li {
+	
+	padding: 14px 16px;
+    float: left;
+    border-right: 1px solid #333333;
+}
+
+li a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+ }
+
+li a:hover{
+    background-color: #888888;
+    color: #000000;
+}
+li a:active {
+	background-color: #333333;
+	color: #ffffff;
+}
+li a:active:not(.active) {
+	background-color: #555555;
+	color: #ffffff;
+}
+
+
+
+<!-- end of np styles -->
+
+
+
+
+
+tr.heading {
+	position: top center;
+	width: 100%;
+	font-family: arial black;
+	font-size: 20pt;
+	font-style: bold;
+	text-align: center;
+
+	
+}
+table {
+	table-layout: auto;
+	background: rgba(0, 0, 0, 0.7);
+	width: 60%;
+	border: 2px solid #ffffff;
+	font-family: ariel;
+	color:;
+	text-align: left;
+	position: fixed center;
+
+
+
+}
+tr {
+	margin: auto;
+	opacity: 1.0;
+	border: 2px solid #ffffff;
+}
+td {
+	margin: auto;
+	opacity: 1.0;
+	border: 2px solid #ffffff;
+}

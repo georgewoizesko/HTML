@@ -1,0 +1,28 @@
+body{
+	background-color: #ff66cc;
+}
+
+h1 {
+	margin: 20px;
+	text-decoration: none;
+	color: #4db8ff;
+	font-family: arial;
+	font-size: 5em;
+}
+
+li {
+	font-family: arial;
+}
+
+p {
+	padding: 5px;
+	background-color: #002e4d;
+	color: #ffffff;
+
+}
+.menu {
+	float: left;
+	padding: 10px;
+	list-style: none;
+
+}

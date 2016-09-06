@@ -1,0 +1,61 @@
+body{
+	width: 900px;
+
+
+}
+aside {
+	width: 300px;
+	background-color: cyan;
+	float: right;
+  	width: 300px;
+}
+
+
+main{
+	width: 550px;
+	background-color: cyan;
+	float: left;
+	
+}
+
+header {
+	height: 150px;
+}
+
+footer{
+	clear: both;
+}
+
+a:hover {
+  text-decoration: line-through;
+}
+a:link    { color:#f05b62; }
+a:visited { color:#ffa4a8; }
+a:focus   { color:#000; }
+a:hover   { color:#000; }
+a:active  { color:yellow; }
+
+.align-right {
+	text-align: right;
+  	color: purple;
+  	font-weight: bold;
+}
+#footer_link {
+	font-style: italic;
+}
+.align-right {
+	text-align: right;
+}
+.yellow {
+  color: yellow;
+}
+.highlight {
+  color: hotpink;
+}
+.social{
+  background-color: teal;
+  position: absolute;
+  padding: 10px;
+  top: 10px;
+  left: 0;
+}

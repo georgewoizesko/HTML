@@ -1,0 +1,28 @@
+
+<div id="background"></div>
+
+<div class="center"></div>
+
+
+.center {
+	margin: auto;
+	width: 80%;
+	border: 3px solid #ffffff;
+	padding: 10px;
+	text-align: center;
+	
+}
+#background {
+		
+	background-image: url(images/lion-flame.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+	background-size: contain;
+}
+body {
+	height: 100%;
+	
+	background-color: #333333;
+	color: #ffffff;
+}
